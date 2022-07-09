@@ -1,0 +1,25 @@
+/* IMPORT */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400;500&family=Lora:wght@400;500&family=Source+Sans+Pro:ital,wght@0,200;0,400;1,300&display=swap');
+
+/* VARIAVEIS */
+
+:root{
+    --color-background: #161925 ; 
+    --color-header: #406E8E;
+    --color-main: #082235;
+     
+  
+    --color-font: #EDE7D9;
+    --color-font-logo: #d5a021;
+    --color-font-animetion: #97ABB4;
+  
+    --color-font-bt:  #005998;
+    --color-font-bt-lt:  #00599876;
+}
+  
+:root{
+    --font-title: 'Times New Roman', Times, serif;
+    --font-title-special: 'Lora', serif;
+    --font-text: 'Source Sans Pro', sans-serif;
+}
